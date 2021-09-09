@@ -1,0 +1,14 @@
+# Maven
+target
+
+# Eclipse
+.project
+.settings
+.classpath
+
+# IntelliJ IDEA
+.idea
+*.iml
+
+/app-build-deploy.bat
+/travis-ci.bat
